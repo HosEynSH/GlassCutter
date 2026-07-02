@@ -224,8 +224,6 @@ GlassCutter is built using the following technologies:
 -  FFprobe – Media analysis tool
 -  Sharp – High-performance image processing library
 
-Special thanks to the open-source community for making these tools possible.
-
 ## Copyright
 
 Copyright © 2025 Shahrokh.
