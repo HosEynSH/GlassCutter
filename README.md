@@ -91,15 +91,15 @@ GlassCutter includes **36 built-in tools**:
   <img src="docs/demo.gif" width="900">
 </p>
 
-## ⬇️ Downloads
+## Downloads
 
 You can download the latest version of GlassCutter from the official GitHub Releases page:
 
-👉 [Download Latest Release](https://github.com/<HosEynSH>/GlassCutter/releases/latest)
+ [Download Latest Release](https://github.com/<HosEynSH>/GlassCutter/releases/latest)
 
 ---
 
-### 📦 Available Packages
+### Available Packages
 
 | Version   | Description |
 |-----------|-------------|
@@ -108,14 +108,14 @@ You can download the latest version of GlassCutter from the official GitHub Rele
 
 ---
 
-### ⚠️ Notes
+### Notes
 
 - Windows only (for now)
 - Installer version requires setup
 - Portable version runs immediately after extraction
 - Both versions include FFmpeg bundled (no extra installation needed)
 
-## ⚙️ Installation
+## Installation
 
 ### Installer Version
 
@@ -182,7 +182,7 @@ Yes. A portable version is available that runs without installation. Just extrac
 ### Can I process multiple files?
 Yes. You can process multiple files sequentially, but parallel processing is not currently supported.
 
-## 🔒 Privacy
+## Privacy
 
 GlassCutter processes all media locally on your device.
 
@@ -203,7 +203,7 @@ When reporting a bug, please include:
 - Expected behavior
 - Screenshots or screen recordings (if possible)
 
-## 🗺️ Roadmap
+## Roadmap
 
 Planned features for future releases:
 
@@ -226,8 +226,10 @@ GlassCutter is built using the following technologies:
 
 Special thanks to the open-source community for making these tools possible.
 
-## ©️ Copyright
+## Copyright
 
 Copyright © 2025 Shahrokh.
+
 All rights reserved.
+
 GlassCutter is a proprietary software. Unauthorized redistribution or modification of the application files is not permitted.
