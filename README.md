@@ -34,11 +34,11 @@ GlassCutter is built around one simple idea: **get from input to output as quick
 Instead of overwhelming users with countless settings and complicated workflows, GlassCutter focuses on the tools people use most. The result is a clean, modern and intuitive experience that makes everyday media processing fast, accessible and reliable.
 Whether you're compressing a video, converting audio, resizing an image or trimming a clip, GlassCutter helps you finish the job in just a few clicks.
 
-## ✨ Features
+## Features
 GlassCutter includes **36 built-in tools**:
-- 🎬 16 Video tools
-- 🎵 13 Audio tools
-- 🖼️ 7 Image tools
+-  16 Video tools
+-  13 Audio tools
+-  7 Image tools
 
 ### 🎬 Video
 
@@ -95,7 +95,7 @@ GlassCutter includes **36 built-in tools**:
 
 You can download the latest version of GlassCutter from the official GitHub Releases page:
 
-👉 [Download Latest Release](https://github.com/<USERNAME>/GlassCutter/releases/latest)
+👉 [Download Latest Release](https://github.com/<HosEynSH>/GlassCutter/releases/latest)
 
 ---
 
