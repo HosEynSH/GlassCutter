@@ -229,5 +229,3 @@ GlassCutter is built using the following technologies:
 Copyright © 2025 Shahrokh.
 
 All rights reserved.
-
-GlassCutter is a proprietary software. Unauthorized redistribution or modification of the application files is not permitted.
