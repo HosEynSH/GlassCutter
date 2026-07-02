@@ -40,7 +40,7 @@ GlassCutter includes **36 built-in tools**:
 -  13 Audio tools
 -  7 Image tools
 
-### 🎬 Video
+### Video
 
 - Convert video formats and codecs
 - Compress videos with optimized presets
@@ -54,7 +54,7 @@ GlassCutter includes **36 built-in tools**:
 - Analyze media information with FFprobe
 - **and more...**
 
-### 🎵 Audio
+### Audio
 
 - Convert audio formats
 - Trim audio files
@@ -67,7 +67,7 @@ GlassCutter includes **36 built-in tools**:
 - Remove silence automaticall
 - **and more...**
 
-### 🖼️ Image
+### Image
 - Convert image formats
 - Resize and compress images
 - Rotate and flip images
@@ -85,7 +85,7 @@ GlassCutter includes **36 built-in tools**:
 
 ---
 
-## 🎬 Demo
+## Demo
 
 <p align="center">
   <img src="docs/demo.gif" width="900">
@@ -117,7 +117,7 @@ You can download the latest version of GlassCutter from the official GitHub Rele
 
 ## ⚙️ Installation
 
-### 📦 Installer Version
+### Installer Version
 
 1. Download the setup file from the Releases page  
 2. Run the installer  
@@ -126,15 +126,15 @@ You can download the latest version of GlassCutter from the official GitHub Rele
 
 ---
 
-### 📁 Portable Version
+### Portable Version
 
 1. Download the portable ZIP file  
 2. Extract it anywhere on your system  
 3. Run `GlassCutter-Portable.exe`
 
-## 📄 Supported Formats
+## Supported Formats
 
-### 🎬 Video
+### Video
 
 **Input:**
 mp4, mkv, avi, webm
@@ -144,7 +144,7 @@ mp4 (H.264), mkv, avi, webm
 
 ---
 
-### 🎵 Audio
+### Audio
 
 **Input:**
 mp3, wav, aac, flac, ogg, m4a, wma, m4r
@@ -154,7 +154,7 @@ mp3, wav, flac, aac
 
 ---
 
-### 🖼️ Image
+### Image
 
 **Input:**
 png, jpg, jpeg, webp, avif, tiff
@@ -162,7 +162,7 @@ png, jpg, jpeg, webp, avif, tiff
 **Output:**
 png, jpeg, webp, avif
 
-## ❓ FAQ
+## FAQ
 
 ### Does GlassCutter require FFmpeg?
 Yes. GlassCutter uses FFmpeg and FFprobe internally, but they are bundled with the application. No separate installation is required.
@@ -191,7 +191,7 @@ No files are uploaded, shared, or sent to any external server. Everything happen
 **100% Offline Processing**  
 Your media never leaves your system.
 
-## 🐞 Reporting Bugs
+## Reporting Bugs
 
 If you encounter any issues or unexpected behavior, please report it via the GitHub Issues page.
 
@@ -215,21 +215,19 @@ Planned features for future releases:
 - UI improvements and refinements
 - macOS and Linux support (future consideration)
 
-## 👨‍💻 Credits
+## Credits
 
 GlassCutter is built using the following technologies:
 
-- ⚡ Electron – Desktop application framework
-- 🎬 FFmpeg – Media processing engine
-- 📊 FFprobe – Media analysis tool
-- 🖼️ Sharp – High-performance image processing library
+-  Electron – Desktop application framework
+-  FFmpeg – Media processing engine
+-  FFprobe – Media analysis tool
+-  Sharp – High-performance image processing library
 
 Special thanks to the open-source community for making these tools possible.
 
 ## ©️ Copyright
 
 Copyright © 2025 Shahrokh.
-
 All rights reserved.
-
 GlassCutter is a proprietary software. Unauthorized redistribution or modification of the application files is not permitted.
