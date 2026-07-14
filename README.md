@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/<HosEynSH>/GlassCutter/releases/latest">
+  <a href="https://github.com/HosEynSH/GlassCutter/releases/tag/v1.0.0">
     <img src="https://img.shields.io/github/v/release/<HosEynSH>/GlassCutter?label=Latest%20Release" alt="Latest Release">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="Windows">
