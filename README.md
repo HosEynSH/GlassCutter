@@ -96,7 +96,7 @@ GlassCutter includes **36 built-in tools**:
 
 You can download the latest version of GlassCutter from the official GitHub Releases page:
 
- [Download Latest Release](https://github.com/<HosEynSH>/GlassCutter/releases/latest)
+ [Download Latest Release](https://github.com/HosEynSH/GlassCutter/releases/tag/v1.0.0)
 
 ---
 
