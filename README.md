@@ -104,7 +104,7 @@ You can download the latest version of GlassCutter from the official GitHub Rele
 
 | Version   | Description |
 |-----------|-------------|
-| Installer | Smaller download, installs GlassCutter on your system with shortcuts and integration |
+| Installer | installs GlassCutter on your system with shortcuts and integration |
 | Portable  | No installation required. Just extract and run anywhere |
 
 ---
