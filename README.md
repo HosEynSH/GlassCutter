@@ -227,6 +227,6 @@ GlassCutter is built using the following technologies:
 
 ## Copyright
 
-Copyright © 2025 Shahrokh.
+Copyright © 2026 Shahrokh.
 
 All rights reserved.
